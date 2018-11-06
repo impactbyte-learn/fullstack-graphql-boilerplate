@@ -5,6 +5,7 @@
   "author": "Rahman Fadhil <rhmnfadhil@gmail.com> (http://rahmanfadhil.com)",
   "license": "MIT",
   "private": true,
+  "workspaces": ["packages/*"],
   "devDependencies": {
     "lerna": "^3.4.3"
   }
